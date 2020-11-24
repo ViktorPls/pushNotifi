@@ -9,7 +9,7 @@ import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
 
 import io.invertase.firebase.app.ReactNativeFirebaseAppPackage;
-
+import io.invertase.firebase.messaging.ReactNativeFirebaseMessagingPackage;
 import java.util.Arrays;
 import java.util.List;
 
