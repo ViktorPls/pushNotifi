@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@react-native-firebase/app": "^10.0.0",
+    "@react-native-firebase/messaging": "^10.0.0",
     "react": "16.8.3",
     "react-native": "0.59.9"
   },
